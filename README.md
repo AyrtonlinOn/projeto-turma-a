@@ -2,7 +2,7 @@
 
 ---
 
-## Experiência
+## Experiência:
 
 - Jogador de lol
 - Designer
